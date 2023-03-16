@@ -1,2 +1,3 @@
 mountpoints:
-  https://pfizer.sharepoint.com/:f:/s/my-aem-project/Egts4P31BbNAlaLH4-w2NfgBwR1Zv-tvbO8gKjB6UpJo8g
+  /:
+    https://pfizer.sharepoint.com/:f:/s/my-aem-project/Egts4P31BbNAlaLH4-w2NfgBwR1Zv-tvbO8gKjB6UpJo8g
