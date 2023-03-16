@@ -1,3 +1,4 @@
 mountpoints:
   /:
-    https://pfizer.sharepoint.com/:f:/s/my-aem-project/Egts4P31BbNAlaLH4-w2NfgBwR1Zv-tvbO8gKjB6UpJo8g
+    
+https://pfizer.sharepoint.com/sites/my-aem-project/myaemproject/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2Fmy-aem-project%2Fmyaemproject&viewpath=%2Fsites%2Fmy-aem-project%2Fmyaemproject%2FForms%2FAllItems%2Easpx&id=%2Fsites%2Fmy-aem-project%2Fmyaemproject%2Ffirst-sharepoint-aem
